@@ -40,11 +40,14 @@ The **Microsoft AI-300** certification validates skills for **Machine Learning O
 
 | Resource | Link |
 |---|---|
+| 🥇 Microsoft Credentials | [Microsoft Credentials Poster](https://learn.microsoft.com/en-ca/credentials/)
 | 📝 Exam AI-300 Overview | [learn.microsoft.com/credentials/certifications/exams/ai-300](https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-300/) |
 | 📖 Official Study Guide | [AI-300 Study Guide on Microsoft Learn](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-300) |
+| 📚 The Skills Hub Blog | [Next Gen Microsoft Certifiations](https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-is-here-are-you-ready-to-showcase-your-skills/4494128)|
 | 🗺️ Learning Path: MLOps on Azure | [Machine Learning Operations (MLOps) with Azure ML](https://learn.microsoft.com/en-us/training/paths/machine-learning-operations-mlops/) |
 | 🏅 Azure AI Engineer Associate Certification | [Certification Overview](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/) |
 | 🎓 Microsoft Learn — AI Training | [AI Training Hub](https://learn.microsoft.com/en-us/training/browse/?products=azure-machine-learning&roles=ai-engineer) |
+| 🤖 AI Learn Hub | [Microsoft AI Learning Hub](https://learn.microsoft.com/en-us/ai/?tabs=business-technical-leader)|
 | 📹 Microsoft Virtual Training Days | [Azure AI & ML Events](https://events.microsoft.com/en-us/allevents/?language=English&clientTimeZone=1&scenario=Microsoft%20Virtual%20Training%20Day) |
 
 ---
@@ -77,6 +80,8 @@ MLOps (Machine Learning Operations) brings DevOps principles to the machine lear
 |---|---|
 | 📖 Azure Machine Learning Docs | [Azure ML Documentation](https://learn.microsoft.com/en-us/azure/machine-learning/) |
 | 🚀 MLOps with Azure ML | [MLOps Overview](https://learn.microsoft.com/en-us/azure/machine-learning/concept-model-management-and-deployment) |
+| 🤖 MLOps Capabilities | [MLOps Model Manageement](https://learn.microsoft.com/en-us/azure/machine-learning/concept-model-management-and-deployment?view=azureml-api-2) 🌟|
+| 🤖 MLOps & GenAIOps | [MLOps & GenAIOps on Azure](https://learn.microsoft.com/en-us/azure/well-architected/ai/mlops-genaiops) 🌟|
 | 🔄 Pipelines in Azure ML | [Azure ML Pipelines](https://learn.microsoft.com/en-us/azure/machine-learning/concept-ml-pipelines) |
 | 📦 Model Registry | [Manage Models in Azure ML](https://learn.microsoft.com/en-us/azure/machine-learning/how-to-manage-models) |
 | 📊 Model Monitoring | [Monitor Models in Production](https://learn.microsoft.com/en-us/azure/machine-learning/concept-model-monitoring) |
@@ -159,6 +164,12 @@ AIOps (Artificial Intelligence for IT Operations) uses ML and AI to enhance and 
 | 🌐 LinkedIn Learning: Azure ML | [Azure Machine Learning on LinkedIn Learning](https://www.linkedin.com/learning/search?keywords=azure+machine+learning) |
 
 ---
+
+## 🦿Observability Tools for AI Agents
+| Resource | Link |
+|---|---|
+| 👀 Agent Ops | [AentOps.ai](https://www.agentops.ai) |
+
 
 ## 🤝 Contributing
 
